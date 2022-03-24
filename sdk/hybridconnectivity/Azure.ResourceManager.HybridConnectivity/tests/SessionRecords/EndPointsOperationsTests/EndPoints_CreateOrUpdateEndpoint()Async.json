@@ -1,0 +1,15 @@
+{
+  "Entries": [],
+  "Variables": {
+    "AZURE_AUTHORITY_HOST": null,
+    "CLIENT_ID": null,
+    "ENVIRONMENT": null,
+    "LOCATION": null,
+    "RESOURCE_GROUP": null,
+    "RESOURCE_MANAGER_URL": null,
+    "SERVICE_MANAGEMENT_URL": null,
+    "STORAGE_ENDPOINT_SUFFIX": null,
+    "SUBSCRIPTION_ID": null,
+    "TENANT_ID": null
+  }
+}
